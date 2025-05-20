@@ -18,9 +18,8 @@ I build both front-end and back-end solutions — from dynamic user interfaces t
 
 ## 📫 Contact
 
-- Email: [your email]
-- GitHub: [your GitHub profile link]
-- LinkedIn: [optional]
+- Email: yavanzhei_er@proton.me
+- LinkedIn: linkedin.com/in/yavanzai/
 
 ---
 
